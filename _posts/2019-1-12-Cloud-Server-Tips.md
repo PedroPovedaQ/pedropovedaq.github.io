@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial Cloud Server Setup Guide
+title: Cloud Server Initial Setup Guide
 ---
 
 So you just created a new droplet on Digital Ocean. Sweet. These are some preliminary steps you want to do to keep your droplet secure from yourself and shady characters on the internet.
