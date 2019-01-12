@@ -30,7 +30,7 @@ Machines can guess passwords, especially simple ones. If the login process is ss
 * Change `Permit Root Login yes` to ` Permit Root Login no`
 
 ### Restart SSH
-Finally, restart SSH for these settings take effect.
+Finally, restart SSH for these settings to take effect.
 `$ sudo service ssh restart`
 
 ### 👍
