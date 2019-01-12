@@ -29,5 +29,9 @@ Machines can guess passwords, especially simple ones. If the login process is ss
 * Change `Password Authentication yes` to ` Password Authentication no`
 * Change `Permit Root Login yes` to ` Permit Root Login no`
 
+### Restart SSH
+Finally, restart SSH for these settings take effect.
+`$ sudo service ssh restart`
+
 ### 👍
 And there you have it, the bare minimum security requirements for a brand new cloud server. Now go take over the world.
